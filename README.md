@@ -108,6 +108,3 @@ Domaine AD : openbank.loc
 ---
 
 *Formation Bachelor Réseau & Sécurité — Projet réalisé sous VirtualBox en environnement virtualisé.*
-
-## Auteur
-Karadag Nissa
