@@ -76,17 +76,17 @@ Domaine AD : openbank.loc
 
 | Objectif | Statut |
 |---|---|
-| VirtualBox + import firewalls | ✅ OK |
-| Windows Server 2022 Paris (GUI) | ✅ OK |
-| Active Directory + domaine openbank.loc | ✅ OK |
-| Structure OU + Groupes + Utilisateurs | ✅ OK |
-| Windows Server 2022 Nantes (Core) | ✅ OK |
-| RODC Nantes joint au domaine | ✅ OK |
-| PKI — CA Paris et CA Nantes | ✅ OK |
-| Certificats serveurs | ✅ OK |
-| Règles de filtrage inter-sites | ✅ OK |
-| Intégration LDAP / AD | ✅ OK |
-| VPN IPsec site-à-site | ⚠️ Partiel — bug interne EVA |
+| VirtualBox + import firewalls |  OK |
+| Windows Server 2022 Paris (GUI) |  OK |
+| Active Directory + domaine openbank.loc |  OK |
+| Structure OU + Groupes + Utilisateurs |  OK |
+| Windows Server 2022 Nantes (Core) |  OK |
+| RODC Nantes joint au domaine |  OK |
+| PKI — CA Paris et CA Nantes |  OK |
+| Certificats serveurs |  OK |
+| Règles de filtrage inter-sites |  OK |
+| Intégration LDAP / AD |  OK |
+| VPN IPsec site-à-site |  Partiel — bug interne EVA |
 
 ---
 
